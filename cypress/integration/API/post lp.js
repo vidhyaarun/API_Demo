@@ -25,7 +25,6 @@ describe('Creating LP into the server - Post method', () => {
                // cy.log(JSON.stringify(response))
         })
     })
-
 it('Get All LPAPI',()=>
 {
 cy.request({
